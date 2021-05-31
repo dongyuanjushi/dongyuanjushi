@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently an undergraduate student in Nanjing University, Software Institute.
+🔭 I’m currently an undergraduate student in Nanjing University, Software Institute.  
 📫 How to reach me: my email address is marknju2018@gmail.com.
 <!--
 **dongyuanjushi/dongyuanjushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
