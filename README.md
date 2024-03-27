@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m an secibd-year PhD student in CS@Rutgers  
+🔭 I’m an second-year PhD student in CS@Rutgers  
 📫 How to reach me: kai.mei@rutgers.edu
 <!--
 **dongyuanjushi/dongyuanjushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
