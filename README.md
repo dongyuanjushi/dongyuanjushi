@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m an second-year CS PhD student of Rutgers  
-📫 How to reach me: marknju2018@gmail.com
+📫 How to reach me: marknju2018@gmail.com  
 🌱 I’m actively contributing on open-sourced projects on language agent, LLM-served system  
 😊 You can find me at https://dongyuanjushi.github.io
 
