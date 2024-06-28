@@ -2,7 +2,7 @@
 🔭 I’m an second-year CS PhD student of Rutgers  
 📫 How to reach me: marknju2018@gmail.com
 
-🌱 I’m actively contributing on open-sourced projects on language agents, LLM-serve. 
+🌱 I’m actively contributing on open-sourced projects on language agent, LLM-served system. 
 
 <!--
 **dongyuanjushi/dongyuanjushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
