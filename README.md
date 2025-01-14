@@ -1,8 +1,6 @@
 ### Hi there 👋
-🔭 I’m an second-year CS PhD student at Rutgers  
-📫 How to reach me: marknju2018@gmail.com  
+🔭 I’m a CS PhD student at Rutgers  
 🌱 I’m interested in language agent, LLM-served system. And I am actively contributing on open-sourced projects related to these fields
-😊 You can find me at https://dongyuanjushi.github.io
 
 ![](https://komarev.com/ghpvc/?username=dongyuanjushi)
 <!--
