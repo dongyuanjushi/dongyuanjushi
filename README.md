@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m a CS PhD student at Rutgers  
-🌱 I’m interested in language agent, LLM-served system. And I am actively contributing on open-sourced projects related to these fields
+🌱 I’m interested in LLM agents and agentic system. And I am actively contributing on open-sourced projects related to these fields
 
 ![](https://komarev.com/ghpvc/?username=dongyuanjushi)
 <!--
