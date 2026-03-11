@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I am Kai 👋
 🔭 I’m a CS PhD student at Rutgers  
-🌱 I’m interested in LLM agents and agentic system. And I am actively contributing on open-sourced projects related to these fields
+🌱 I’m doing LLM research in agentic RL and test-time scaling for LLM agents. And I am actively contributing on open-sourced projects related to these fields
 
 ![](https://komarev.com/ghpvc/?username=dongyuanjushi)
 <!--
