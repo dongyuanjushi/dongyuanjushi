@@ -1,6 +1,6 @@
 ## Hi, I am Kai 👋
 🔭 I’m a CS PhD student at Rutgers  
-🌱 I’m doing LLM research in agentic RL and test-time scaling for LLM agents. And I am actively contributing on open-sourced projects related to these fields
+🌱 I’m doing LLM research in agentic RL and test-time scaling for LLM agents. 
 
 ### Github Activity
 <img src="http://ghchart.rshah.org/dongyuanjushi" />
